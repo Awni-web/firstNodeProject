@@ -1,5 +1,4 @@
 import http from "http";
-import { waitForDebugger } from "inspector";
 
 const host = "localhost";
 const port = 8000;
